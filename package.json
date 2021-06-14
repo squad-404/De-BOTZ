@@ -1,0 +1,45 @@
+{
+  "name": "Dehante",
+  "version": "1.0.0",
+  "description": "an example script for whatsapp bot",
+  "main": "script.js",
+  "directories": {
+    "lib": "lib",
+    "scrap": "scrap"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node script.js"
+  },
+  "keywords": [
+    "termux",
+    "whatsapp",
+    "bot",
+    "whatsapp",
+    "whatsappbot",
+    "bot-wea",
+    "bot",
+    "baileys",
+    "basic",
+    "scrap"
+  ],
+  "author": "Dehante",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dehan-j1ng/De-BOTZ.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dehan-j1ng/De-BOTZ/issues"
+  },
+  "homepage": "https://github.com/dehan-j1ng/readme.md",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.0",
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.5",
+    "fs-extra": "^9.0.1",
+    "moment-timezone": "^0.5.32",
+    "node-fetch": "^2.6.1",
+    "performance-now": "^2.1.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
