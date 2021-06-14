@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+<p align="center">
+<img src="https://github.com/dehan-j1ng/readm/blob/main/awikwok.gif" width="45%"/>
+</p>
 
-You can use the [editor on GitHub](https://github.com/dehan-j1ng/De-BOTZ/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**Information**
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dehan-j1ng/De-BOTZ/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Mau full code no enkripsi?
+chat me on whatsapp
+```
+<p align="center">
+<a href="https://wa.me/+6281342474954"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+<br>
+<br><a href="https://github.com/Dehante"><img title="Owner" src="https://img.shields.io/badge/Owner-De`BOTZ-black?style=for-the-badge&logo=windows"></a>
+</p>
